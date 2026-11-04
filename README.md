@@ -1,4 +1,7 @@
 # 🌡️ Monitoramento de Temperatura com ESP32
+Gabriel Yoshino
+João Tiodoro
+Nicolas Ferreira
 
 Sistema de monitoramento e controle automático de temperatura utilizando **ESP32, sensor DS18B20, display LCD I2C e módulo relé** para acionamento de um cooler.
 
